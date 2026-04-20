@@ -13,11 +13,6 @@ const files = fs.readdirSync(contentDir)
     return numB - numA; // 降順
   });
 
-if (files.length === 0) {
-  console.error('content/ に [文字]-[数字].md ファイルが見つかりません');
-  process.exit(1);
-}
-
 const sections = files.map(file => {
   const content = fs.readFileSync(path.join(contentDir, file), 'utf-8');
   // reveal.js の data-markdown はバッククォートをエスケープする必要がある
