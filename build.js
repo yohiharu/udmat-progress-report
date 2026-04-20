@@ -31,9 +31,9 @@ const html = `<!DOCTYPE html>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Progress Report</title>
-  <link rel="stylesheet" href="node_modules/reveal.js/dist/reset.css">
-  <link rel="stylesheet" href="node_modules/reveal.js/dist/reveal.css">
-  <link rel="stylesheet" href="node_modules/reveal.js/dist/theme/black.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reset.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/theme/black.css">
 </head>
 <body>
   <div class="reveal">
@@ -41,9 +41,9 @@ const html = `<!DOCTYPE html>
 ${sections}
     </div>
   </div>
-  <script src="node_modules/reveal.js/dist/reveal.js"></script>
-  <script src="node_modules/reveal.js/plugin/markdown/markdown.js"></script>
-  <script src="node_modules/reveal.js/plugin/highlight/highlight.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/markdown/markdown.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/highlight/highlight.js"></script>
   <script>
     Reveal.initialize({
       hash: true,
