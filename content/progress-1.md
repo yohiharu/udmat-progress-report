@@ -17,7 +17,7 @@
 ---
 ## 今読んでいるもの(これから読むもの)
 - Style-based Clustering of Visual Artworks and the Play of Neural Style-Representations
-  - 〇〇
+  - スタイル（見た目の特徴）だけを使って、自動でグループ分け
 - DRAW: Deep networks for Recognizing styles of Artists Who illustrate children’s books
   - イラストレーターを当てることは、割と精度高くできる
 ---
