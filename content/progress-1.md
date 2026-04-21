@@ -16,9 +16,9 @@
 - 絵本のスタイルが子どもの嗜好とどのように関係があるかの調査
 ---
 ## 今読んでいるもの(これから読むもの)
-- Style-based Clustering of Visual Artworks and the Play of Neural Style-Representations
+- [Style-based Clustering of Visual Artworks and the Play of Neural Style-Representations](https://arxiv.org/pdf/2409.08245)
   - スタイル（見た目の特徴）だけを使って、自動でグループ分け
-- DRAW: Deep networks for Recognizing styles of Artists Who illustrate children’s books
+- [DRAW: Deep networks for Recognizing styles of Artists Who illustrate children’s books](https://arxiv.org/pdf/1704.03057)
   - イラストレーターを当てることは、割と精度高くできる
 ---
 # 言い訳
