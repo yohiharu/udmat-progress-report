@@ -20,3 +20,9 @@
   - 〇〇
 - DRAW: Deep networks for Recognizing styles of Artists Who illustrate children’s books
   - イラストレーターを当てることは、割と精度高くできる
+---
+# 言い訳
+- 保育士
+  - 趣味で取るには難しすぎました。
+- 申請書書いてます
+  - 当たると、デバイスくれるらしい 
