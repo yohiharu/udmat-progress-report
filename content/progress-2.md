@@ -15,6 +15,7 @@
 ---
 ## 読んだ論文
 - Style-based Clustering of Visual Artworks and the Play of Neural Style-Representations
+
 --- 
 # 今やっていること
 - Gram行列に対するk-meansクラスタリングの実装
