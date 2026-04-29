@@ -8,13 +8,16 @@
   - わかりやすさ、伝わっているか
 
 ---
+
 ## 読んだ論文
 - [Deep networks for Recognizing styles of Artists Who illustrate children’s books](https://share.google/RJu9DCa9BvNNtWD2g)
   - 24人のイラストレーターの約6500ページから70%を用いて学習
     - 94％の分類制度(すごい)
+
 ---
-## 読んだ論文
-- Style-based Clustering of Visual Artworks and the Play of Neural Style-Representations
+
+## 読む論文
+- [Style-based Clustering of Visual Artworks and the Play of Neural Style-Representations](https://share.google/VNc4d37EAozhZTf47)
 
 ---
 ## 今やっていること
