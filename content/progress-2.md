@@ -16,9 +16,10 @@
 
 ---
 
-## 読む論文
+## 読んだ論文
 - [Style-based Clustering of Visual Artworks and the Play of Neural Style-Representations](https://share.google/VNc4d37EAozhZTf47)
-
+  - Vitが優秀らしい
+  - テキスト系かスタイル転送系か
 ---
 ## 今やっていること
-- Gram行列に対するk-meansクラスタリングの実装
+- Gram行列に対するk-meansクラスタリングの実装(スタイル転送系)
